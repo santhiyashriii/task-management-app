@@ -1,0 +1,23 @@
+INTERNSHIP TASK — FINAL PROJECT
+
+Project: TaskFlow - Task Management Application
+
+Implemented requirements:
+1. User authentication and authorization
+2. CRUD operations for tasks
+3. Dynamic API and database handling
+4. Responsive web/mobile design
+5. Task status and priority tracking
+6. Search and filtering
+7. Real-time updates were optional, so WebSockets were not required
+
+Before submission:
+1. Configure MongoDB Atlas.
+2. Configure backend .env.
+3. Run and test backend.
+4. Run and test frontend.
+5. Deploy backend.
+6. Set VITE_API_URL in Netlify.
+7. Deploy frontend.
+8. Test the live URL in a private/incognito window.
+9. Submit the live URL and repository if requested.
